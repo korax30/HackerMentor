@@ -1,4 +1,4 @@
-pwd -> saber la ubicacion del directorio actual
+pwd -> saber la ubicacion del directorio actual```
 ls  -> listar
 cd -> movernos entre directorios
 cat -> ver terxto de un archivo
