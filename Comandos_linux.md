@@ -27,5 +27,9 @@ ctrl + A -> ir al inicio de la linea
 ctrl + E -> ir al final de la linea
 ```
 ctrl + K -> borrar del puntero hacia adelante
-``` 
+```
+ctrl + shift + c -> copiar
+```
+ctrl + shift + +v -> pegar
+
 
