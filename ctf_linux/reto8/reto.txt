@@ -1,2 +1,2 @@
-No puedes leer el archivo ? 
-revisa los permisos
+La flag de este reto no deberia tener permisos de lectura para ningun usuario
+¿podrias cambiarlo?
