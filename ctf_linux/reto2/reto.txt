@@ -1,0 +1,5 @@
+Los atacantes a veces esconden mensajes codificados.
+
+Hay un archivo llamado mensaje.b64.
+
+Tu misión es descubrir qué dice el mensaje.

@@ -1,0 +1,2 @@
+No puedes leer el archivo ? 
+revisa los permisos

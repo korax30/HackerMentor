@@ -1,0 +1,3 @@
+Los atacantes a veces esconden archivos usando nombres especiales.
+
+Revisa cuidadosamente el contenido de esta carpeta.

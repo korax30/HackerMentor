@@ -1,0 +1,3 @@
+Se encontró un backup del sistema.
+
+Tu misión es revisar qué hay dentro del backup y encontrar la flag.

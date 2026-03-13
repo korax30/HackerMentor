@@ -1,0 +1,5 @@
+Dentro de la carpeta archivos hay varios archivos.
+
+Solo uno contiene información importante.
+
+Tu misión es encontrar el archivo que contiene la palabra flag.

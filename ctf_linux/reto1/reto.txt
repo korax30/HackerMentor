@@ -1,0 +1,7 @@
+Hay un archivo llamado archivo.txt.
+
+Tu misión es:
+
+1. Crear una carpeta llamada evidencia
+2. Mover el archivo dentro de esa carpeta
+3. Abrir el archivo para encontrar la flag

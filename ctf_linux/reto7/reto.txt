@@ -1,0 +1,5 @@
+Un log contiene información sobre accesos al sistema.
+
+El archivo es muy grande.
+
+Tu misión es encontrar la flag escondida en el log.

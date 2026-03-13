@@ -1,0 +1,9 @@
+Un archivo importante está disponible en un servidor web interno.
+
+Tu misión es descargar el archivo y revisar su contenido.
+
+Dirección del servidor:
+
+http://127.0.0.1:8000
+
+(tienes que levantar el servidor en tu maquina dentro de /ctf_linux)
