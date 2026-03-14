@@ -4,7 +4,7 @@ ls  -> listar
 \
 cd -> movernos entre directorios
 \
-cat -> ver terxto de un archivo
+cat -> ver texto de un archivo
 \
 file -> saber el tipo de archivo
 \
@@ -16,6 +16,30 @@ man -> ver el manual
 \
 mkdir -> crear un directorio 
 \
+\
+echo -> imprimir en pantalla/crear archivos
+\
+cp -> Copiar
+\
+mv -> mover/cambiar el nombre de un archivo
+\
+grep -> buscar informacion
+\
+find -> buscar archivos
+\
+tail ->  ver archivos en tiempo real
+\
+less -> leer archivos grandes
+\
+nano -> editar archivos
+\
+tree -> visualizar estructura
+\
+echo "texto" | base64 -d  -> decodificar base64
+\
+python -m http.server <puerto>  ->  levantar un servidor http
+
+
 
 
 ctrl + L -> limpiar la pantalla
