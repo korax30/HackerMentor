@@ -2,7 +2,9 @@ journalctl -> ver logs
 \
 journalctl -f -> ver en vivo
 \
+\
 ssh user@ip
+\
 \
 exiftool archivo.ext -> metadatos de una imagen
 \
@@ -11,4 +13,8 @@ exiftool -variable="texto" -> modificar metadatos de la imagen
 exiftool -all= archivo.ext -> eliminar metadatos de una imagen
 \
 exiftool -v archivo.ext
+\
+\
+md5sum -> ver el hash md5 de un archivo
+
 
