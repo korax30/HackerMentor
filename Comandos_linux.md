@@ -40,6 +40,8 @@ echo "texto" | base64 -d  -> decodificar base64
 python -m http.server <puerto>  ->  levantar un servidor http
 \
 wget -> obtener archivos web
+\
+nc -nlvp <puerto>-> colocarnos en escucha en un puerto
 
 
 
