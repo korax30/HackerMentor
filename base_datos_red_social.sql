@@ -21,10 +21,13 @@
 --
 CREATE DATABASE IF NOT EXISTS social;
 
+Use social;
+
 CREATE USER IF NOT EXISTS 'socialuser'@'localhost' IDENTIFIED BY 'password123';
 
 GRANT ALL PRIVILEGES ON social.* TO 'socialuser'@'localhost';
 FLUSH PRIVILEGES;
+
 
 DROP TABLE IF EXISTS `comments`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
