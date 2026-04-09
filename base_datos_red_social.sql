@@ -95,8 +95,8 @@ INSERT INTO `posts` VALUES
 (1,1,'gym.jpg','Entrenando en SmartFit Chapinero 💪','Bogotá','2026-04-09 17:19:10'),
 (2,2,'airport.jpg','Otra vez en El Dorado ✈️ rumbo a Medellín','Bogotá Airport','2026-04-09 17:19:10'),
 (3,4,'code.jpg','Probando el sistema de upload nuevo 😅 solo validamos extensión por ahora...','Office','2026-04-09 17:19:10'),
-(4,7,'party.jpg','Anoche fue una locura 😂 contraseña del wifi: Coco123#','Bogotá','2026-04-09 17:19:10'),
-(5,8,'selfie.jpg','En casa como siempre 💕 escríbeme: sofiuzumaki@proton.me','Chapinero','2026-04-09 17:19:10');
+(4,7,'party.jpg','Anoche fue una locura 😂 contraseña del wifi: semeolvido','Bogotá','2026-04-09 17:19:10'),
+(5,8,'selfie.jpg','En casa como siempre 💕 escríbeme: cupon_HM@proton.me','Chapinero','2026-04-09 17:19:10');
 /*!40000 ALTER TABLE `posts` ENABLE KEYS */;
 UNLOCK TABLES;
 commit;
